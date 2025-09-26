@@ -1,0 +1,41 @@
+# Arquivos de ambiente
+.env
+
+# Binários Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Arquivos de teste
+*.test
+
+# Arquivos de cobertura de teste
+*.out
+
+# Dependências
+/vendor/
+
+# IDEs e editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Sistema operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Diretório de build
+/bin/
+/dist/ 
